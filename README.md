@@ -1,2 +1,2 @@
 # design-resolusi
-Repository untuk menyimpan rencan DESIGN kedepannya
+Repository untuk menyimpan rencana DESIGN kedepannya
